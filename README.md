@@ -53,8 +53,4 @@ Right now I'm especially interested in:
 
 ## Resume
 
-<details>
-<summary><b>View my full resume</b></summary>
-<br/>
 <a href="./Youssef_Serag_Resume.pdf"><img src="./assets/resume.png" alt="Resume of Youssef Serag" width="100%" /></a>
-</details>
