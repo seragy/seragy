@@ -37,7 +37,7 @@ Right now I'm especially interested in:
 | [**PediaTrack**](https://github.com/seragy/pediatrack) | Clinician-guided patient recovery platform. Spring Boot backend with role-based access, rule-based symptom trend flags, and versioned REST APIs over PostgreSQL. |
 | [**PrepWise**](https://github.com/seragy/ai_mock_interviews) | AI voice interview platform with real-time interviews via VAPI and Gemini feedback. Zod validation cut malformed AI responses by **95%**. |
 | [**Bellini Classes**](https://github.com/seragy/bellini-classes) | Course scheduling platform for USF's scheduling committee, with a 9-rule data audit, semester comparison, and waitlist analysis. |
-| **The Last of Us: Legacy** | Turn-based zombie survival strategy game in Java Swing, backed by **250+ JUnit tests** at 85% coverage. |
+| [**The Last of Us: Legacy**](https://github.com/seragy/LastOfUs) | Turn-based zombie survival strategy game in Java Swing, backed by **250+ JUnit tests** at 85% coverage. |
 
 ## Tech Stack
 
