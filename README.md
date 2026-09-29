@@ -100,8 +100,8 @@ public class Youssef {
 ### 📈 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seragy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1320&title_color=FF7A45&icon_color=2EC4B6&text_color=D6D3CC&ring_color=FF7A45" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seragy&layout=compact&hide_border=true&bg_color=0B1320&title_color=FF7A45&text_color=D6D3CC&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seragy&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seragy&theme=github_dark" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seragy&hide_border=true&background=0B1320&ring=FF7A45&fire=FF7A45&currStreakLabel=2EC4B6&sideLabels=D6D3CC&currStreakNum=F4F1EA&sideNums=F4F1EA&dates=8B949E&stroke=12324A" alt="GitHub streak" />
